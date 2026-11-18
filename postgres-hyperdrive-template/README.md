@@ -18,7 +18,7 @@ create, read, update, delete commands to your PostgreSQL database with Hyperdriv
 > [!IMPORTANT]
 > When creating a Hyperdrive configuration as part of this template, disable caching from your Hyperdrive configuration to ensure your administrative shows updated values. Learn more about [Hyperdrive's built-in query caching](https://developers.cloudflare.com/hyperdrive/configuration/query-caching/) and when to use it.
 >
-> When using C3 to create this project, select "no" when it asks if you want to deploy. You need to follow this project's [setup steps](https://github.com/cloudflare/templates/tree/main/hyperdrive-template#setup-steps) before deploying.
+> When using C3 to create this project, select "no" when it asks if you want to deploy. You need to follow this project's [setup steps](https://github.com/cloudflare/templates/tree/main/postgres-hyperdrive-template#setup-steps) before deploying.
 
 <!-- dash-content-end -->
 
